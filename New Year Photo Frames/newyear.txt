@@ -29,13 +29,8 @@
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/portrait/frame_q.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/portrait/frame_r.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/portrait/frame_s.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/portrait/frame_t.webp",
-    "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_d%20(2).webp",
-    "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_k%20(2).webp",
-      "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_n%20(2).webp",
-    "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_t%20(2).webp"
-    
-    ],
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/portrait/frame_t.webp"
+      ],
   "landscape":[
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame21.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_16.png",
