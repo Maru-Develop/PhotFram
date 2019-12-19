@@ -33,7 +33,7 @@
     "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_d%20(2).webp",
     "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_k%20(2).webp",
       "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_n%20(2).webp",
-    "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_t%20(2).webp",
+    "https://github.com/Maruf-Developer/PhotFram/blob/master/New%20Year%20Photo%20Frames/portrait/frame_t%20(2).webp"
     
     ],
   "landscape":[
