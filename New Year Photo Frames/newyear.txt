@@ -31,6 +31,8 @@
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/New%20Year%20Photo%20Frames/landscape/lf113.webp",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/New%20Year%20Photo%20Frames/landscape/lf114.webp",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/New%20Year%20Photo%20Frames/landscape/lf115.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/New%20Year%20Photo%20Frames/landscape/lf116.webp"
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/New%20Year%20Photo%20Frames/landscape/lf116.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame13.png"
     ]
 }
