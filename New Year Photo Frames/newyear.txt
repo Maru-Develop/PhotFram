@@ -45,7 +45,21 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_1.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_15.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_11.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_10.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frame_3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/New%20Year%20Photo%20Frames/landscape/frames_9.png"
+    
    
     ]
 }
