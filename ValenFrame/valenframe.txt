@@ -21,7 +21,7 @@
   "landscape":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f8.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f11.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f12.png",
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f10.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f17.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f23.png",
@@ -29,14 +29,14 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f13.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f14.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f15.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f16.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f1.png",
+
+
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f3.png",
+  
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f4.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f5.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f6.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f7.png",
+    
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f9.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f20.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/ValenFrame/landscape/f21.png",
