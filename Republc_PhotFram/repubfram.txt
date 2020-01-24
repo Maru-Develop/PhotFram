@@ -3,6 +3,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame2.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame21.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame4.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame5.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/portrait/frame6.png",
@@ -27,16 +28,15 @@
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_2.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_3.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_4.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_5.webp",
+        "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_15.webp",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_16.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_6.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_7.webp",
+        "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_5.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_8.webp",
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_9.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_10.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_11.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_12.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_13.webp",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_14.webp"
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Republc_PhotFram/landscape/frame_10.webp"
+  
      
     ]
 }
