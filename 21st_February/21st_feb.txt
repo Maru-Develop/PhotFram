@@ -33,14 +33,12 @@
   "landscape":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram2.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram3.webp",
+   
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram4.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram5.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram6.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram7.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram8.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram9.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram10.webp",
+    
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram12.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram13.webp",
@@ -49,10 +47,9 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram16.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram17.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram18.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram19.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram20.webp",
+
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram21.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram22.webp",
+
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram23.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram24.webp"
      
