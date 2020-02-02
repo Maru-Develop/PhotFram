@@ -29,8 +29,6 @@
   "landscape":[
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram2.webp",
-   
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram4.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram5.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram6.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/landscape/fram9.webp",
