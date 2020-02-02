@@ -4,30 +4,26 @@
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_2.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_3.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_4.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_5.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_6.webp",
+ 
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_7.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_8.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_9.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_10.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_11.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_12.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_13.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_14.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_15.webp",
+
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_16.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_17.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_18.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_19.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_20.webp",
+
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_21.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_22.webp",
+
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_23.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_24.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_25.webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_26.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_27.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_28.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/21st_February/portrait/frames_27.webp"
   
     ],
   "landscape":[
