@@ -3,6 +3,26 @@
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/fbprofileframe.png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f1.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f13.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f14.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f15.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f16.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f17.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f18.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f19.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f20.png"
+     
     ]
 }
