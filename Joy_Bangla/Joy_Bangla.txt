@@ -1,11 +1,14 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/fbprofileframe.png",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/coming_soon.jpg",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/coming_soon.jpg",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/coming_soon.jpg",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/coming_soon.jpg",
-   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/coming_soon.jpg"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f1.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f2.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f3.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f4.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f5.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f6.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f7.png",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f8.png"
+  
    
    ],
   "landscape":[
