@@ -1,36 +1,31 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf01.webp",
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf02.webp",
-   "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf03.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf04.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf05.webp",
-   "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf06.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf07.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf08.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf09.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf10.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf11.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/pf12.webp"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_1.webp",
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_2.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_3.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_4.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_5.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_6.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_7.webp",
+   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/portrait/frames_8.webp"
+   
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf01.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf02.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf03.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf04.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf05.webp",
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf06.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf08.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf09.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf10.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf11.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf12.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf13.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf14.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf15.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf16.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf17.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf18.webp",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/lf19.webp"
-    ]
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo1.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo2.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo3.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo4.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo5.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo6.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo7.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo8.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo9.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo10.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo11.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo12.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo13.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/pohela_boishakh/landscape/nobo15.webp"
+     
+     ]
 }
