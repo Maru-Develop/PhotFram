@@ -1,17 +1,157 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_1.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_2.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_3.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_4.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_5.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_6.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_7.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_8.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_9.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_10.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_11.webp",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/26th_March/portrait/frame_12.webp"
+  
+
+  
+    "https://i.postimg.cc/VLjBF7j3/potrait-2.png"
+  ,
+  
+    "https://i.postimg.cc/J4w5ZwBN/potrait-3.png"
+  ,
+  
+    "https://i.postimg.cc/859BZ9XV/potrait-4.png"
+  ,
+  
+    "https://i.postimg.cc/Z54PsrH0/potrait-5.png"
+  ,
+  
+    "https://i.postimg.cc/BbF5kpRP/potrait-6.png"
+  ,
+  
+    "https://i.postimg.cc/mgjYvtpj/potrait-7.png"
+  ,
+  
+    "https://i.postimg.cc/k55Qqqkm/potrait-8.png"
+  ,
+  
+    "https://i.postimg.cc/R0bc02Bn/potrait-9.png"
+  ,
+  
+    "https://i.postimg.cc/LXcLtfh9/potrait-10.png"
+  ,
+  
+    "https://i.postimg.cc/JnDjHKrY/potrait-11.png"
+  ,
+  
+    "https://i.postimg.cc/wMDJ0vsh/potrait-12.png"
+  ,
+  
+    "https://i.postimg.cc/8kvh1ynj/potrait-13.png"
+  ,
+  
+    "https://i.postimg.cc/QxrcVpRS/potrait-14.png"
+  ,
+  
+    "https://i.postimg.cc/jdQPfDTT/potrait-15.png"
+  ,
+  
+    "https://i.postimg.cc/pLW8JPVF/potrait-16.png"
+  ,
+  
+    "https://i.postimg.cc/DwxGCRmY/potrait-17.png"
+  ,
+  
+    "https://i.postimg.cc/CKdq9JqM/potrait-18.png"
+  ,
+  
+    "https://i.postimg.cc/FKqLvcyy/potrait-19.png"
+  ,
+  
+    "https://i.postimg.cc/gJZ62Jsf/potrait-20.png"
+  ,
+  
+    "https://i.postimg.cc/7hrJGkQb/potrait-21.png"
+  ,
+  
+    "https://i.postimg.cc/4yv7pSrP/potrait-22.png"
+  ,
+  
+    "https://i.postimg.cc/xjLzrXcm/potrait-23.png"
+  ,
+  
+    "https://i.postimg.cc/02xJ99wB/potrait-24.png"
+  ,
+  
+    "https://i.postimg.cc/pXZ5T3QX/potrait-25.png"
+  ,
+  
+    "https://i.postimg.cc/Njj9rbb8/potrait-26.png"
+  ,
+  
+    "https://i.postimg.cc/YCD4Ngy5/potrait-27.png"
+  ,
+  
+    "https://i.postimg.cc/rpdDfmBK/potrait-28.png"
+  ,
+  
+    "https://i.postimg.cc/rpvK3TTg/potrait-29.png"
+  ,
+  
+    "https://i.postimg.cc/MTVv8LKw/potrait-30.png"
+  ,
+  
+    "https://i.postimg.cc/Vvw5sFdC/potrait-31.png"
+  ,
+  
+    "https://i.postimg.cc/T1c1KWDH/potrait-32.png"
+  ,
+  
+    "https://i.postimg.cc/c17r9PbM/potrait-33.png"
+  ,
+  
+    "https://i.postimg.cc/1594LJxx/potrait-34.png"
+  ,
+  
+    "https://i.postimg.cc/XYqqvq7Q/potrait-36.png"
+  ,
+  
+    "https://i.postimg.cc/htYjQnXg/potrait-37.png"
+  ,
+  
+    "https://i.postimg.cc/W4J4MyZZ/potrait-38.png"
+  ,
+  
+    "https://i.postimg.cc/50d2pm5R/potrait-39.png"
+  ,
+  
+    "https://i.postimg.cc/DZryNbBy/potrait-40.png"
+  ,
+  
+    "https://i.postimg.cc/5yp94dhh/potrait-42.png"
+  ,
+  
+    "https://i.postimg.cc/WzsbcbHm/potrait-41.png"
+  ,
+  
+    "https://i.postimg.cc/Yqn2T7fg/potrait-43.png"
+  ,
+  
+    "https://i.postimg.cc/x1Xj2ZtZ/potrait-47.png"
+  ,
+  
+    "https://i.postimg.cc/W1xNb7y1/potrait-46.png"
+  ,
+  
+    "https://i.postimg.cc/tRz4tWsB/potrait-45.png"
+  ,
+  
+    "https://i.postimg.cc/m222dkMB/potrait-44.png"
+  ,
+  
+    "https://i.postimg.cc/GtMr0PYr/potrait-48.png"
+  ,
+  
+    "https://i.postimg.cc/PJfhFVC2/potrait-50.png"
+  ,
+  
+    "https://i.postimg.cc/V6WmgPkJ/potrait-49.png"
+  ,
+  
+    "https://i.postimg.cc/YSgp4Wcf/potrait-51.png"
+  ,
+  
+    "https://i.postimg.cc/vBsG5ZbR/potrait-52.png"
+ 
   
   ],
   "landscape":[
