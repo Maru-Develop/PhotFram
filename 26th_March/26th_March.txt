@@ -30,11 +30,6 @@
     "https://i.postimg.cc/LXcLtfh9/potrait-10.png"
   ,
   
-    "https://i.postimg.cc/JnDjHKrY/potrait-11.png"
-  ,
-  
-    "https://i.postimg.cc/wMDJ0vsh/potrait-12.png"
-  ,
   
     "https://i.postimg.cc/8kvh1ynj/potrait-13.png"
   ,
@@ -42,15 +37,7 @@
     "https://i.postimg.cc/QxrcVpRS/potrait-14.png"
   ,
   
-    "https://i.postimg.cc/jdQPfDTT/potrait-15.png"
-  ,
-  
-    "https://i.postimg.cc/pLW8JPVF/potrait-16.png"
-  ,
-  
-    "https://i.postimg.cc/DwxGCRmY/potrait-17.png"
-  ,
-  
+   
     "https://i.postimg.cc/CKdq9JqM/potrait-18.png"
   ,
   
@@ -60,8 +47,6 @@
     "https://i.postimg.cc/gJZ62Jsf/potrait-20.png"
   ,
   
-    "https://i.postimg.cc/7hrJGkQb/potrait-21.png"
-  ,
   
     "https://i.postimg.cc/4yv7pSrP/potrait-22.png"
   ,
@@ -69,22 +54,11 @@
     "https://i.postimg.cc/xjLzrXcm/potrait-23.png"
   ,
   
-    "https://i.postimg.cc/02xJ99wB/potrait-24.png"
-  ,
   
     "https://i.postimg.cc/pXZ5T3QX/potrait-25.png"
   ,
   
     "https://i.postimg.cc/Njj9rbb8/potrait-26.png"
-  ,
-  
-    "https://i.postimg.cc/YCD4Ngy5/potrait-27.png"
-  ,
-  
-    "https://i.postimg.cc/rpdDfmBK/potrait-28.png"
-  ,
-  
-    "https://i.postimg.cc/rpvK3TTg/potrait-29.png"
   ,
   
     "https://i.postimg.cc/MTVv8LKw/potrait-30.png"
@@ -99,17 +73,12 @@
     "https://i.postimg.cc/c17r9PbM/potrait-33.png"
   ,
   
-    "https://i.postimg.cc/1594LJxx/potrait-34.png"
-  ,
+  
   
     "https://i.postimg.cc/XYqqvq7Q/potrait-36.png"
   ,
   
-    "https://i.postimg.cc/htYjQnXg/potrait-37.png"
-  ,
-  
-    "https://i.postimg.cc/W4J4MyZZ/potrait-38.png"
-  ,
+
   
     "https://i.postimg.cc/50d2pm5R/potrait-39.png"
   ,
