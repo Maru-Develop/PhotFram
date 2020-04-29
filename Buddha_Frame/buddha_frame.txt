@@ -1,33 +1,33 @@
 {
   "portrait":[
-  "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha1.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha2.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha3.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha4.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha5.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha6.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha7.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha8.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha9.png",
-"https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/portrait/buddha10.png"
+  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha1.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha2.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha3.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha4.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha5.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha6.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha7.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha8.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha9.png",
+"https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/portrait/buddha10.png"
 
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha1.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha2.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha3.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha4.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha5.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha6.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha7.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha8.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha9.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha10.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha11.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha12.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha13.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha14.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/Christamas%20Photo%20Frames/landscape/buddha15.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha12.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha13.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Buddha_Frame/landscape/buddha15.png"
     
     ]
 }
