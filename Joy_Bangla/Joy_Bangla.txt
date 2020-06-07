@@ -5,7 +5,6 @@
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f3.png",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f5.png",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f6.png",
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f7.png",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/portrait/f8.png",
   "https://i.postimg.cc/pL7S3Vty/1.png",
 "https://i.postimg.cc/bvkmMQTF/10.png",
@@ -35,11 +34,10 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f9.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f10.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f11.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Joy_Bangla/landscape/f18.png",
      
  "https://i.postimg.cc/BbqvJSXJ/joy-bangla-13.png",
 "https://i.postimg.cc/P5BrPzP3/joy-bangla-14.png",
- "https://i.postimg.cc/sxwgXkh7/joy-bangla-15.png",
+
  "https://i.postimg.cc/NFJQYR3x/joy-bangla-21.png",
  "https://i.postimg.cc/02j8nHSX/joy-bangla-22.png",
  "https://i.postimg.cc/PxHXMXb1/joy-bangla-23.png",
