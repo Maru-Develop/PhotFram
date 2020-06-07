@@ -37,8 +37,6 @@
      
  "https://i.postimg.cc/BbqvJSXJ/joy-bangla-13.png",
 "https://i.postimg.cc/P5BrPzP3/joy-bangla-14.png",
-
- "https://i.postimg.cc/NFJQYR3x/joy-bangla-21.png",
  "https://i.postimg.cc/02j8nHSX/joy-bangla-22.png",
  "https://i.postimg.cc/8ktphV7r/joy-bangla-26.png"
 
