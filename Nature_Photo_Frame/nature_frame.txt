@@ -1,13 +1,13 @@
 {
   "portrait":[
+       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k3.png",
+       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k8.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k1.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k2.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k4.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k5.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k6.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k8.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k9.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k10.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k11.png",
@@ -60,10 +60,10 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/portrait/k58.png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_1.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_2.png",
+ 
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_3.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_2.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_5.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_6.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nature_Photo_Frame/landscape/big_frame_7.png",
