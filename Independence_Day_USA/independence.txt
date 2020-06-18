@@ -1,6 +1,6 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg1.png"
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg2.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg3.png",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg4.png",
@@ -14,7 +14,7 @@
     
     
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_001.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_001.png"
      
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_002.png",
      
