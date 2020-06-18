@@ -1,8 +1,59 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/portrait/bg10.png"
     ],
+    
+    
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_001.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_002.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_003.png",
+
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_007.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_008.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_010.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_014.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_015.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_016.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_017.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_018.png",
+     
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_019.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_021.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_023.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_024.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_025.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_026.png",
+
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_028.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_029.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_USA/landscape/frame_us_independence_day_photo_frames_030.png"
+     
+     
     ]
 }
