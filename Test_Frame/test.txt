@@ -14,7 +14,7 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_11.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_12.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_13.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_14.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_14.png"
   
     ],
   "landscape":[
