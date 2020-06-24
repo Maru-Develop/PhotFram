@@ -9,7 +9,6 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(28).PNG",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(29).PNG",
 
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(21).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(22).PNG",
   
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(25).webp",
@@ -23,7 +22,6 @@
   
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(10).webp",
 
-  "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(12).webp",
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(13).webp",
 
   "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/portrait/i2TechFrame%20(16).webp",
@@ -47,9 +45,9 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f18.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f19.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f20.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f21.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f22.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f23.png",
+     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f22.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f24.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f26.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_India/landscape/f27.png",
