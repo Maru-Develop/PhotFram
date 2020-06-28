@@ -1,8 +1,30 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Guru_Purnima/portrait/frame1.png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/theme12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Nag_Panchami/landscape/p10.png"
+     
     ]
 }
