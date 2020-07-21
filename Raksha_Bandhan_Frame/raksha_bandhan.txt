@@ -1,8 +1,9 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame1.png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame1.png"
+  
     ]
 }
