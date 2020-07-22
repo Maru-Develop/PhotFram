@@ -1,43 +1,10 @@
 {
   "portrait":[
-  
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_1.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_2.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_3.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_4.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_5.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_6.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_8.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_10.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_11.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_12.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_13.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/portrait/frame_14.png"
-  
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/portrait/f1.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/portrait/f1.png"
     ],
   "landscape":[
-         "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f1.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f2.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f3.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f4.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f5.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f6.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f7.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f8.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f9.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f10.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f11.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f12.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f13.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f14.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f15.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f16.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f17.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f18.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f19.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f20.png"
-     
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/landscape/frame16.png",
+    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf20.png"
     ]
 }
