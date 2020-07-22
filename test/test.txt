@@ -4,25 +4,7 @@
       "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/portrait/f1.png"
     ],
   "landscape":[
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf1.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf2.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf3.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf4.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf5.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf6.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf7.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf8.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf9.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf10.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf11.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf12.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf13.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf14.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf15.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf16.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf17.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf18.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf19.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/landscape/frame16.png",
     "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf20.png"
     ]
 }
