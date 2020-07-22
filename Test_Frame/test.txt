@@ -1,10 +1,52 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/portrait/f1.png",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/portrait/f1.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame12.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame13.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame15.png",
+    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_1.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_2.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_3.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_4.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_5.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_6.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_7.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_8.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_9.webp",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_10.webp"
+   
+    
     ],
   "landscape":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/test/landscape/frame16.png",
-    "https://raw.githubusercontent.com/madhukar3646/PhotoFrameImages/master/RamzanFrames/landscape/lf20.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame12.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame13.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame15.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame16.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame17.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame18.png"
     ]
 }
