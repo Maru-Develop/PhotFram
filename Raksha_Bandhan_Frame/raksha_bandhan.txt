@@ -1,9 +1,34 @@
 {
   "portrait":[
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame1.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame12.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame13.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/portrait/frame15.png"
+    
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame1.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Raksha_Bandhan_Frame/landscape/frame10.png"
+      
   
     ]
 }
