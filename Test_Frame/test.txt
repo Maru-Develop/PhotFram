@@ -1,50 +1,44 @@
 {
   "portrait":[
-  
-     
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_2.webp",
-        "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame14.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame15.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_3.webp",
-    
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/ic_defultcake_7.webp",
-  
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame1.png",
-
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame3.png",
-
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame5.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame6.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame7.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame8.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame9.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame10.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame11.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame12.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/portrait/frame13.png"
-
- 
-   
-    
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna1.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna12.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna13.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna14.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna15.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/portrait/krishna16.png"
     ],
+    
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame1.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame3.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame4.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame5.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame6.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame7.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame8.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame9.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame11.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame12.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame13.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame14.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Birthday_Cake/landscape/frame15.png"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay1.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay2.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay3.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay4.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay5.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay6.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay7.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay8.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay9.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay10.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay11.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay12.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay13.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay14.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay15.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay16.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay17.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay18.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay19.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay20.png"
+     
     ]
 }
