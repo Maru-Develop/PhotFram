@@ -22,16 +22,16 @@
     
   "landscape":[
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam1.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam2.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam3.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam4.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam5.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam6.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam7.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam8.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam9.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam10.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam11.png",
-    "https://raw.githubusercontent.com/Maruf-Developer/Photonam/master/Onam_onam/landscape/onam12.png"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam2.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam3.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam4.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam5.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam6.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam7.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam8.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam9.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam10.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam11.png",
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Onam_Frame/landscape/onam12.png"
     ]
 }
