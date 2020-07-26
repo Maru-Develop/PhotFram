@@ -21,15 +21,13 @@
     ],
     
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame001.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame002.PNG",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame003.PNG",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame004.PNG",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame005.PNG",
-     
-     
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame002.PNG",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_0.webp",
-  
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame001.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_14.webp",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame004.PNG",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_3.webp",
 
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_5.webp",
@@ -39,8 +37,8 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_10.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_12.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_13.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_14.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/landscape/frame_13.webp"
+  
      
      
      
