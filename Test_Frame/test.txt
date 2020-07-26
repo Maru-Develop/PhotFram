@@ -34,8 +34,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay13.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay14.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay15.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay16.png",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay17.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay18.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay19.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Janmashtami/landscape/iplay20.png"
