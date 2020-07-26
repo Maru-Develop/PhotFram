@@ -10,34 +10,11 @@
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame18.PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame19.PNG",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/frame20.PNG",
-    
-   
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g1.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g2.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g3.webp",
     "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g4.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g5.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g6.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g7.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g8.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g9.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g10.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g11.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g12.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g13.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g14.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g15.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g16.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g17.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g18.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g19.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g20.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g21.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g22.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g23.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g24.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g25.webp",
-    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g26.webp"
+    "https://raw.githubusercontent.com/Maruf-Developer/PhotFrame/master/Ganesh_Chaturthi/portrait/g2.webp"
+
     
     
     
