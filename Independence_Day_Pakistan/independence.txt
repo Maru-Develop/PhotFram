@@ -38,7 +38,14 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f18.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f19.png",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f20.png",
-      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f24.png"
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f24.png",
+      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f25.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f26.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f27.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f28.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f29.png",
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Independence_Day_Pakistan/landscape/f30.png"
+     
      
     ]
 }
