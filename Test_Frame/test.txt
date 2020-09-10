@@ -40,6 +40,6 @@
      "https://raw.githubusercontent.com/Maruf-Developer/Selfie_With_App/master/Selfie_With_Girlfriend/category3/image (36).png"
     ],
   "landscape":[
-     "https://raw.githubusercontent.com/Maruf-Developer/Selfie_With_App/master/Selfie_With_Girlfriend/category1/frame (4).png"
+     "https://raw.githubusercontent.com/Maruf-Developer/Selfie_With_App/master/Bolly_Actress_Selfie/image (35).png"
     ]
 }
