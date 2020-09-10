@@ -1,6 +1,6 @@
 {
   "portrait":[
-    "
+    
      "https://raw.githubusercontent.com/Maruf-Developer/Selfie_With_App/master/Selfie_With_Girlfriend/category1/frame (1).png",
      "https://raw.githubusercontent.com/Maruf-Developer/Selfie_With_App/master/Selfie_With_Girlfriend/category1/frame (2).png",
      "https://raw.githubusercontent.com/Maruf-Developer/Selfie_With_App/master/Selfie_With_Girlfriend/category1/frame (3).png",
