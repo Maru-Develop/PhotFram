@@ -32,18 +32,10 @@
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_1.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_2.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_3.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_4.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_5.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_6.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_7.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_8.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_9.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_10.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_11.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_12.webp",
      "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_13.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_14.webp",
-     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_15.webp"
+     "https://raw.githubusercontent.com/Maruf-Developer/PhotFram/master/Hoi_Frame/landscape/frame_14.webp"
      
      
     ]
