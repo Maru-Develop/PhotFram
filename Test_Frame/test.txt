@@ -4,8 +4,7 @@
 "https://i.imgur.com/ITTqSrt.png",
 "https://i.imgur.com/ndWhJPr.png",
 "https://i.imgur.com/ARvD5Jj.png",
-"https://i.imgur.com/0Np8kOM.png",
-"https://i.imgur.com/bv6rsEK.png",
+
 "https://i.imgur.com/95vGz1k.png",
 "https://i.imgur.com/aLJzQd3.png",
 "https://i.imgur.com/zp6xN2I.png",
@@ -33,7 +32,7 @@
 
    ],
   "landscape":[
- "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-1.webp",
+    "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-1.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-3.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-4.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-5.webp",
@@ -53,8 +52,6 @@
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-27.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-28.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-29.webp",
- "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-32.webp",
- "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-33.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-34.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-35.webp",
  "https://raw.githubusercontent.com/SmDevelopment1/MyTest/master/landscapejoy/frame-36.webp",
